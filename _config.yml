@@ -33,7 +33,7 @@ author: "Yashwant Rathore"
 title: "{ Yashwant Rathore }"
 description: "Blog and website of Yashwant, blogging mainly for tech. Opinions expressed are mine."
 keywords: "rathore, yashwant, personal, jekyll, theme"
-favicon: "img/y"
+favicon: "/img/y"
 ################
 # Header layout #
 ################
